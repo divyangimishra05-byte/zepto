@@ -5,7 +5,7 @@
   ShoppingCart,
   ChevronDown,
 } from "lucide-react";
-import products from "../data/Products";
+import products from "../data/Project";
 
 function Header({ setIsCartOpen }) {
   const scrollToSection = (sectionId) => {
